@@ -10,7 +10,7 @@ namespace Client
 {
     public class Client : BaseScript
     {
-        const int BLIP_TIMER = 10; //In Seconds
+        const int BLIP_TIMER = 20; //In Seconds
         bool onCooldown = false;
         public Client()
         {
