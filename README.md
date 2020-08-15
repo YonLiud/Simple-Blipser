@@ -18,7 +18,7 @@ Simple Blipser enables the members of the session to share their location
 ```
 start sBlipser
 ```
-2) Drag and drop the `EC` Folder into ``..\FXServer\server-data\resources\``
+2) Drag and drop the `sWorldClear` Folder into ``..\FXServer\server-data\resources\``
 
 3) Restart your server
 
